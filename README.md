@@ -32,6 +32,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 
 ### Other
 - [LW-WIN](http://weitz.de/lw-win/) - Some Win32-specific functions for LispWorks
+- [Tricks](http://www.doremir.com/lisp/lispworks.php) - LispWorks platform-specific tricks
 - [Bit Streams](https://github.com/massung/bit-stream) - Simple implementation of reading and writing bits (and bytes) to and from vectors as if they were input and output streams for LispWorks.
 - [hn](https://github.com/massung/hn) - Hacker News REST API for LispWorks
 - [gif](https://github.com/massung/gif) - GIF image decoding for LispWorks
