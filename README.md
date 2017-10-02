@@ -29,17 +29,19 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [LW-DOC](http://weitz.de/lw-doc/) - A permuted index for the LispWorks documentation
 - [Dash CAPI](https://github.com/fourier/dash-capi) - CAPI Dash docset and a tool to convert LispWorks CAPI documentation to Dash docset
 
+### Networking and internet
+- [lw-dns-sd](https://github.com/tuscland/lw-dns-sd) - DNS Service Discovery for LispWorks 
+- [hn](https://github.com/massung/hn) - Hacker News REST API for LispWorks
+- [OAUTH](https://github.com/massung/oauth) - OAuth 1.0a for LispWorks
+- [ArangoDB](https://github.com/massung/arangodb) -  ArangoDB REST API Interface for LispWorks
+- [Dropbox](https://github.com/massung/dropbox) - Dropbox REST API for LispWorks
 
 ### Other
 - [LW-WIN](http://weitz.de/lw-win/) - Some Win32-specific functions for LispWorks
 - [Tricks](http://www.doremir.com/lisp/lispworks.php) - LispWorks platform-specific tricks
 - [Bit Streams](https://github.com/massung/bit-stream) - Simple implementation of reading and writing bits (and bytes) to and from vectors as if they were input and output streams for LispWorks.
-- [hn](https://github.com/massung/hn) - Hacker News REST API for LispWorks
 - [gif](https://github.com/massung/gif) - GIF image decoding for LispWorks
 - [LWGL](https://github.com/massung/lwgl) - OpenGL 2.0 LispWorks FLI
-- [OAUTH](https://github.com/massung/oauth) - OAuth 1.0a for LispWorks
 - [spam](https://github.com/massung/spam) - Naive Bayesian Filter for LispWorks
-- [ArangoDB](https://github.com/massung/arangodb) -  ArangoDB REST API Interface for LispWorks
-- [Dropbox](https://github.com/massung/dropbox) - Dropbox REST API for LispWorks
 
      
