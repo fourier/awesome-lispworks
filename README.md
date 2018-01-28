@@ -17,7 +17,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [CAPI utils](https://github.com/massung/capi_utils) - CAPI Utility Panes for LispWorks
 - [GP utils](https://github.com/massung/gp_utils) - Graphics Port Utility functions for LispWorks
 - [HTTP image](https://github.com/massung/http-image) -  CAPI HTTP Image Output Pane for LispWorks
-
+- [Cairo](https://github.com/ungil/Cairo) - Embed R charts in LispWorks for Windows 6.0 CAPI panes
 
 ### IDE Extensions
 - [Color Theme](https://github.com/acelent/lw-editor-color-theme) - LispWorks Editor color theme addon
@@ -30,7 +30,8 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [Dash CAPI](https://github.com/fourier/dash-capi) - CAPI Dash docset and a tool to convert LispWorks CAPI documentation to Dash docset
 
 ### Networking and internet
-- [lw-dns-sd](https://github.com/tuscland/lw-dns-sd) - DNS Service Discovery for LispWorks 
+- [lw-dns-sd](https://github.com/tuscland/lw-dns-sd) - DNS Service Discovery for LispWorks
+- [lw-serial-port](https://github.com/tuscland/lw-serial-port) - Library to access serial port based devices from OSX or Windows
 - [hn](https://github.com/massung/hn) - Hacker News REST API for LispWorks
 - [OAUTH](https://github.com/massung/oauth) - OAuth 1.0a for LispWorks
 - [ArangoDB](https://github.com/massung/arangodb) -  ArangoDB REST API Interface for LispWorks
