@@ -36,6 +36,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [OAUTH](https://github.com/massung/oauth) - OAuth 1.0a for LispWorks
 - [ArangoDB](https://github.com/massung/arangodb) -  ArangoDB REST API Interface for LispWorks
 - [Dropbox](https://github.com/massung/dropbox) - Dropbox REST API for LispWorks
+- [Actors](refined-audiometrics.com/tekram/Actors.zip) - Actors package, implementing a system of Green threads across a dynamically expandable pool of OS Executive threads.
 
 ### Other
 - [LW-WIN](http://weitz.de/lw-win/) - Some Win32-specific functions for LispWorks
