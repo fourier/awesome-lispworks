@@ -37,6 +37,12 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [ArangoDB](https://github.com/massung/arangodb) -  ArangoDB REST API Interface for LispWorks
 - [Dropbox](https://github.com/massung/dropbox) - Dropbox REST API for LispWorks
 - [Actors](refined-audiometrics.com/tekram/Actors.zip) - Actors package, implementing a system of Green threads across a dynamically expandable pool of OS Executive threads.
+- [amazon-ses](http://www.obrezan.com/lisp/aws-ses/index.htm) - Amazon SES support, send emails via Amazon Simple Email Service
+
+### Databases
+- [mysql](http://www.obrezan.com/lisp/mysql/index.htm) - MySQL Native Driver
+- [sqlite3](http://www.obrezan.com/lisp/sqlite/index.htm) - SQLite3 Driver
+
 
 ### Other
 - [LW-WIN](http://weitz.de/lw-win/) - Some Win32-specific functions for LispWorks
@@ -45,5 +51,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [gif](https://github.com/massung/gif) - GIF image decoding for LispWorks
 - [LWGL](https://github.com/massung/lwgl) - OpenGL 2.0 LispWorks FLI
 - [spam](https://github.com/massung/spam) - Naive Bayesian Filter for LispWorks
-
+- [md5](http://www.obrezan.com/lisp/md5/index.htm) - implementation of the MD5 message-digest algorithm
+- [sha1](http://www.obrezan.com/lisp/sha1/index.htm) - implementation of the SHA1 message-digest algorithm
+- [game2018](http://www.obrezan.com/lisp/2048/index.htm) - A version of the 2048 game written for Lispworks
      
