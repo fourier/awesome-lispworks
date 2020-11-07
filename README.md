@@ -21,7 +21,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 
 ### IDE Extensions
 - [Color Theme](https://github.com/acelent/lw-editor-color-theme) - LispWorks Editor color theme addon
-- [LW-ADD-ONS](http://weitz.de/lw-add-ons/) - Some additions to the LispWorks IDE
+- [LW-ADD-ONS](https://common-lisp.net/~loliveira/ediware/lw-add-ons/_darcs/current/doc/) - Some additions to the LispWorks IDE, archive can be downloaded [here](http://weitz.de/files/lispOld.zip).
 
 
 ### Documentation
