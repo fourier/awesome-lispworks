@@ -7,7 +7,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 
 ### CAPI extensions
 - [CAPI Cookbook](http://capi.plasticki.com/) - CAPI Cookbook
-- [Image blending](http://wagerlabs.com/blog/2008/01/21/transparency-and-masking-in-lispworks-capi/) - Transparency and Masking in Lispworks CAPI.
+- [Image blending](https://web.archive.org/web/20170628184342/http://wagerlabs.com/blog/2008/01/21/transparency-and-masking-in-lispworks-capi/) - Transparency and Masking in Lispworks CAPI.
 - [CAPI Utility panes](https://github.com/massung/capi_utils) - CAPI Utility Panes for LispWorks
 - [CAPI Output Panel](https://github.com/massung/output-panel) - CAPI Output Panel for LispWorks
 - [The CURSED Package](https://github.com/massung/cursed) - NCURSES - like pane for CAPI
