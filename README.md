@@ -12,7 +12,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [CAPI Output Panel](https://github.com/massung/output-panel) - CAPI Output Panel for LispWorks
 - [The CURSED Package](https://github.com/massung/cursed) - NCURSES - like pane for CAPI
 - [Ystok Widgets](http://lisp.ystok.ru/projects.html#ywidgets) - Collection of CAPI widgets
-- [MIDGETS](http://weitz.de/midgets/) - A collection of CAPI widgets and utilities
+- [MIDGETS](http://weitz.de/files/lispOld.zip) - (in archive) A collection of CAPI widgets and utilities
 - [output panel](https://github.com/massung/output-panel) - CAPI Output Panel for LispWorks
 - [CAPI utils](https://github.com/massung/capi_utils) - CAPI Utility Panes for LispWorks
 - [GP utils](https://github.com/massung/gp_utils) - Graphics Port Utility functions for LispWorks
@@ -23,10 +23,9 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [Color Theme](https://github.com/acelent/lw-editor-color-theme) - LispWorks Editor color theme addon
 - [LW-ADD-ONS](https://common-lisp.net/~loliveira/ediware/lw-add-ons/_darcs/current/doc/) - Some additions to the LispWorks IDE, archive can be downloaded [here](http://weitz.de/files/lispOld.zip).
 
-
 ### Documentation
-- [CAPI Overview](http://weitz.de/capi-overview/) - A graphical overview of (some) CAPI classes
-- [LW-DOC](http://weitz.de/lw-doc/) - A permuted index for the LispWorks documentation
+- [CAPI Overview](http://weitz.de/files/lispOld.zip) - (in archive) A graphical overview of (some) CAPI classes
+- [LW-DOC](http://weitz.de/files/lispOld.zip) - (in archive) A permuted index for the LispWorks documentation
 - [Dash CAPI](https://github.com/fourier/dash-capi) - CAPI Dash docset and a tool to convert LispWorks CAPI documentation to Dash docset
 
 ### Networking and internet
@@ -45,7 +44,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 
 
 ### Other
-- [LW-WIN](http://weitz.de/lw-win/) - Some Win32-specific functions for LispWorks
+- [LW-WIN](http://weitz.de/files/lispOld.zip) - (in archive) Some Win32-specific functions for LispWorks
 - [Tricks](http://www.doremir.com/lisp/lispworks.php) - LispWorks platform-specific tricks
 - [Bit Streams](https://github.com/massung/bit-stream) - Simple implementation of reading and writing bits (and bytes) to and from vectors as if they were input and output streams for LispWorks.
 - [gif](https://github.com/massung/gif) - GIF image decoding for LispWorks
