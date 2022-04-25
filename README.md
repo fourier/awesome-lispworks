@@ -23,6 +23,7 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 - [Color Theme](https://github.com/acelent/lw-editor-color-theme) - LispWorks Editor color theme addon
 - [LW-ADD-ONS](https://common-lisp.net/~loliveira/ediware/lw-add-ons/_darcs/current/doc/) - Some additions to the LispWorks IDE, archive can be downloaded [here](http://weitz.de/files/lispOld.zip).
 - [Parachute - Browser](https://github.com/julian-baldwin/parachute-browser) - A lightweight browser & test runner for using the Parachute test framework in LispWorks.
+- [Command Line hax](https://github.com/tfeb/tfeb-lisp-implementation-hax) - A collection of LispWorks command line tools by Tim Bradshaw. [Some documentation](https://tfeb.github.io/tfeb-lisp-implementation-hax/lw/) is also available.
 
 ### Documentation
 - [CAPI Overview](http://weitz.de/files/lispOld.zip) - (in archive) A graphical overview of (some) CAPI classes
