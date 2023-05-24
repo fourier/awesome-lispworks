@@ -5,6 +5,8 @@ A curated list of awesome LispWorks extensions. Inspired by [awesome-python](htt
 
 ## LispWorks extensions
 
+Some of these extensions are available at quicklisp compatible distribution: https://ultralisp.org/dists/lispworks
+
 ### CAPI extensions
 - [CAPI Cookbook](http://capi.plasticki.com/) - CAPI Cookbook
 - [Image blending](https://web.archive.org/web/20170628184342/http://wagerlabs.com/blog/2008/01/21/transparency-and-masking-in-lispworks-capi/) - Transparency and Masking in Lispworks CAPI.
